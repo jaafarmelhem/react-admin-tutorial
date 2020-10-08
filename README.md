@@ -1,4 +1,4 @@
-# react-admin-example
+# react-admin-tutorial
 
  create a react-admin example
  
