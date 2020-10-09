@@ -2,9 +2,9 @@
   "posts": [
     {
       "id": "1",
-      "title": "Post One",
-      "body": "This is the post body",
-      "publishedAt": "10-01-2020"
+      "title": "Post One - TO BE DELETED",
+      "body": "This is the post body - TO BE DELETED",
+      "publishedAt": "2020-10-08"
     },
     {
       "id": "2",
@@ -23,18 +23,29 @@
       "body": "test2",
       "publishedAt": "2020-10-07",
       "id": "0sOACda"
+    },
+    {
+      "title": "new post",
+      "body": "this is a new post",
+      "publishedAt": "2020-10-09",
+      "id": "19ISVud"
     }
   ],
   "users": [
     {
       "id": "1",
-      "name": "John Doee",
+      "name": "John Doe - first user",
       "email": "john@example.com"
     },
     {
       "name": "Jaafar Melhem",
       "email": "jaafarmelhem2591@gmail.com",
       "id": "Aet-v6P"
+    },
+    {
+      "name": "Jaafar Melhem",
+      "email": "john@example.com",
+      "id": "fl5xt-R"
     }
   ]
 }
